@@ -1,0 +1,2149 @@
+[
+    {
+        "sentence": [
+            "Introduction"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Logging",
+            "while",
+            "drilling."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "6"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Lithology",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "10"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Structural",
+            "geology."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "15"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Biostratigraphy",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "16"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Geochemistry",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "19"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Physical",
+            "properties",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "27"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Paleomagnetism",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "35"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "37"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "X-ray",
+            "computed",
+            "tomography",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "38"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "References",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "38"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Figures",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "44"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Tables."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "67"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Appendix",
+            "A",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "78"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Appendix",
+            "A",
+            "figures",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "81"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Appendix",
+            "A",
+            "tables",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "87"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Appendix",
+            "B",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "89"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Appendix",
+            "B",
+            "figures",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "90"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Appendix",
+            "B",
+            "tables",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "92"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "This",
+            "chapter",
+            "documents",
+            "the",
+            "methods",
+            "used",
+            "for",
+            "shipboard",
+            "measurements",
+            "and",
+            "analyses",
+            "during",
+            "Integrated",
+            "Ocean",
+            "Drilling",
+            "Program",
+            "(IODP)",
+            "Expedition",
+            "338."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Riser",
+            "drilling",
+            "was",
+            "conducted,",
+            "including",
+            "cuttings,",
+            "mud",
+            "gas,",
+            "logging",
+            "while",
+            "drilling",
+            "(LWD),",
+            "and",
+            "measurement",
+            "while",
+            "drilling",
+            "(MWD)",
+            "from",
+            "852.33",
+            "to",
+            "2005.5",
+            "meters",
+            "below",
+            "seafloor",
+            "(mbsf)",
+            "in",
+            "IODP",
+            "Hole",
+            "C0002F,",
+            "which",
+            "had",
+            "been",
+            "suspended",
+            "for",
+            "2",
+            "years",
+            "since",
+            "being",
+            "drilled",
+            "during",
+            "IODP",
+            "Expedition",
+            "326",
+            "by",
+            "the",
+            "D/V",
+            "Chikyu",
+            "in",
+            "2010",
+            "(Expedition",
+            "326",
+            "Scientists,",
+            "2011)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "In",
+            "light",
+            "of",
+            "this",
+            "decision,",
+            "we",
+            "completed",
+            "riserless",
+            "coring",
+            "in",
+            "IODP",
+            "Holes",
+            "C0002H",
+            "(1100.5–1120",
+            "mbsf),",
+            "C0002J",
+            "(902–926.7",
+            "mbsf),",
+            "C0002K",
+            "(200–286.5",
+            "mbsf),",
+            "C0002L",
+            "(277–505",
+            "mbsf),",
+            "C0021B",
+            "(0–",
+            "194.5",
+            "mbsf),",
+            "and",
+            "C0022B",
+            "(0–419.5",
+            "mbsf)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Riserless",
+            "LWD",
+            "operations",
+            "were",
+            "completed",
+            "in",
+            "IODP",
+            "Holes",
+            "C0012H",
+            "(0–710",
+            "mbsf),",
+            "C0018B",
+            "(0–350",
+            "mbsf),",
+            "C0021A",
+            "(0–294",
+            "mbsf),",
+            "and",
+            "C0022A",
+            "(0–",
+            "420.5",
+            "mbsf)",
+            "(Table",
+            "T1",
+            "in",
+            "the",
+            "“Expedition",
+            "338",
+            "summary”",
+            "chapter",
+            "[Strasser",
+            "et",
+            "al.,",
+            "2014a])."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "1Strasser,",
+            "M.,",
+            "Dugan,",
+            "B.,",
+            "Kanagawa,",
+            "K.,",
+            "Moore,",
+            "G.F.,",
+            "Toczko,",
+            "S.,",
+            "Maeda,",
+            "L.,",
+            "Kido,",
+            "Y.,",
+            "Moe,",
+            "K.T.,",
+            "Sanada,",
+            "Y.,",
+            "Esteban,",
+            "L.,",
+            "Fabbri,",
+            "O.,",
+            "Geersen,",
+            "J.,",
+            "Hammerschmidt,",
+            "S.,",
+            "Hayashi,",
+            "H.,",
+            "Heirman,",
+            "K.,",
+            "Hüpers,",
+            "A.,",
+            "Jurado",
+            "Rodriguez,",
+            "M.J.,",
+            "Kameo,",
+            "K.,",
+            "Kanamatsu,",
+            "T.,",
+            "Kitajima,",
+            "H.,",
+            "Masuda,",
+            "H.,",
+            "Milliken,",
+            "K.,",
+            "Mishra,",
+            "R.,",
+            "Motoyama,",
+            "I.,",
+            "Olcott,",
+            "K.,",
+            "Oohashi,",
+            "K.,",
+            "Pickering,",
+            "K.T.,",
+            "Ramirez,",
+            "S.G.,",
+            "Rashid,",
+            "H.,",
+            "Sawyer,",
+            "D.,",
+            "Schleicher,",
+            "A.,",
+            "Shan,",
+            "Y.,",
+            "Skarbek,",
+            "R.,",
+            "Song,",
+            "I.,",
+            "Takeshita,",
+            "T.,",
+            "Toki,",
+            "T.,",
+            "Tudge,",
+            "J.,",
+            "Webb,",
+            "S.,",
+            "Wilson,",
+            "D.J.,",
+            "Wu,",
+            "H.-Y.,",
+            "and",
+            "Yamaguchi,",
+            "A.,",
+            "2014."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Methods."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "In",
+            "Strasser,",
+            "M.,",
+            "Dugan,",
+            "B.,",
+            "Kanagawa,",
+            "K.,",
+            "Moore,",
+            "G.F.,",
+            "Toczko,",
+            "S.,",
+            "Maeda,",
+            "L.,",
+            "and",
+            "the",
+            "Expedition",
+            "338",
+            "Scientists,",
+            "Proc."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "IODP,",
+            "338:",
+            "Yokohama",
+            "(Integrated",
+            "Ocean",
+            "Drilling",
+            "Program)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Previous",
+            "IODP",
+            "work",
+            "at",
+            "Site",
+            "C0002",
+            "included",
+            "logging",
+            "and",
+            "coring",
+            "during",
+            "Nankai",
+            "Trough",
+            "Seismogenic",
+            "Zone",
+            "Experiment",
+            "(NanTroSEIZE)",
+            "Stages",
+            "1",
+            "and",
+            "2."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "LWD",
+            "operations",
+            "provided",
+            "data",
+            "from",
+            "0",
+            "to",
+            "1401.5",
+            "mbsf",
+            "(Hole",
+            "C0002A;",
+            "Expedition",
+            "314",
+            "Scientists,",
+            "2009a)",
+            "and",
+            "0",
+            "to",
+            "980",
+            "mbsf",
+            "(Hole",
+            "C0002G;",
+            "Expedition",
+            "332",
+            "Scientists,",
+            "2011)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Coring",
+            "at",
+            "Site",
+            "C0002",
+            "previously",
+            "sampled",
+            "0–203.5",
+            "mbsf",
+            "(Holes",
+            "C0002C",
+            "and",
+            "C0002D)",
+            "and",
+            "475–1057",
+            "mbsf",
+            "(Hole",
+            "C0002B)",
+            "(Expedition",
+            "315",
+            "Scientists,",
+            "2009b)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "During",
+            "riser",
+            "operations,",
+            "we",
+            "expanded",
+            "the",
+            "data",
+            "sets",
+            "at",
+            "Site",
+            "C0002."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Gas",
+            "from",
+            "drilling",
+            "mud",
+            "was",
+            "analyzed",
+            "in",
+            "near",
+            "real",
+            "time",
+            "in",
+            "a",
+            "mud-gas",
+            "monitoring",
+            "laboratory",
+            "and",
+            "was",
+            "sampled",
+            "for",
+            "postcruise",
+            "research."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Continuous",
+            "LWD/MWD",
+            "data",
+            "were",
+            "collected",
+            "in",
+            "real",
+            "time",
+            "for",
+            "quality",
+            "control",
+            "and",
+            "for",
+            "initial",
+            "assessment",
+            "of",
+            "borehole",
+            "environment",
+            "and",
+            "formation",
+            "properties."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Recorded-mode",
+            "LWD",
+            "data",
+            "provided",
+            "higher",
+            "spatial",
+            "sampling",
+            "of",
+            "downhole",
+            "parameters",
+            "and",
+            "conditions."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Cuttings",
+            "were",
+            "sampled",
+            "for",
+            "standard",
+            "shipboard",
+            "analyses",
+            "and",
+            "shore-based",
+            "research."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Riserless",
+            "coring",
+            "in",
+            "Holes",
+            "C0002H",
+            "and",
+            "C0002J–C0002L",
+            "provided",
+            "additional",
+            "core",
+            "samples",
+            "(whole",
+            "round",
+            "and",
+            "discrete)",
+            "for",
+            "standard",
+            "shipboard",
+            "and",
+            "shore-based",
+            "research."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Riserless",
+            "operations",
+            "at",
+            "Site",
+            "C0012",
+            "provided",
+            "an",
+            "extensive",
+            "LWD",
+            "data",
+            "set",
+            "for",
+            "characterization",
+            "of",
+            "the",
+            "sediment",
+            "and",
+            "basement",
+            "conditions",
+            "and",
+            "properties."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "These",
+            "logging",
+            "data,",
+            "which",
+            "extend",
+            "from",
+            "0",
+            "to",
+            "710",
+            "mbsf,",
+            "complemented",
+            "previous",
+            "coring",
+            "work",
+            "at",
+            "Site",
+            "C0012",
+            "(Expedition",
+            "322",
+            "Scientists,",
+            "2010c;",
+            "Expedition",
+            "333",
+            "Scientists,",
+            "2012b)",
+            "and",
+            "provided",
+            "additional",
+            "data",
+            "in",
+            "intervals",
+            "where",
+            "core",
+            "recovery",
+            "was",
+            "sparse,",
+            "especially",
+            "within",
+            "the",
+            "basement."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0018B",
+            "was",
+            "the",
+            "logging",
+            "complement",
+            "to",
+            "coring",
+            "in",
+            "Hole",
+            "C0018A."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "The",
+            "LWD",
+            "hole",
+            "provided",
+            "in",
+            "situ",
+            "characterization",
+            "of",
+            "mass",
+            "transport",
+            "deposits",
+            "(MTDs)",
+            "that",
+            "were",
+            "cored",
+            "in",
+            "Hole",
+            "C0018A",
+            "(Expedition",
+            "333",
+            "Scientists,",
+            "2012c)",
+            "as",
+            "part",
+            "of",
+            "the",
+            "Nankai",
+            "Trough",
+            "Submarine",
+            "Landslide",
+            "History",
+            "ancillary",
+            "project",
+            "letter."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0018A",
+            "sampled",
+            "a",
+            "stacked",
+            "series",
+            "of",
+            "MTDs",
+            "that",
+            "are",
+            "related",
+            "to",
+            "active",
+            "tectonic",
+            "processes."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Logging",
+            "data",
+            "provide",
+            "additional",
+            "characterization",
+            "of",
+            "the",
+            "features",
+            "in",
+            "the",
+            "MTDs",
+            "and",
+            "the",
+            "sediments",
+            "that",
+            "bound",
+            "them,",
+            "which",
+            "allows",
+            "additional",
+            "constraints",
+            "on",
+            "the",
+            "evolution",
+            "of",
+            "MTDs."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Riserless",
+            "coring",
+            "and",
+            "LWD",
+            "operations",
+            "at",
+            "Site",
+            "C0021",
+            "(proposed",
+            "Site",
+            "NTS-1C)",
+            "targeted",
+            "a",
+            "more",
+            "proximal",
+            "site",
+            "for",
+            "MTDs",
+            "observed",
+            "at",
+            "Site",
+            "C0018."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Combined",
+            "with",
+            "LWD",
+            "and",
+            "core",
+            "data",
+            "obtained",
+            "at",
+            "Site",
+            "C0018,",
+            "LWD",
+            "and",
+            "coring",
+            "at",
+            "Site",
+            "C0021",
+            "provide",
+            "additional",
+            "information",
+            "on",
+            "the",
+            "nature,",
+            "provenance,",
+            "and",
+            "kinematics",
+            "of",
+            "MTDs,",
+            "as",
+            "well",
+            "as",
+            "constraints",
+            "on",
+            "sliding",
+            "dynamics",
+            "and",
+            "the",
+            "tsunamigenic",
+            "potential",
+            "of",
+            "MTDs."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Riserless",
+            "coring",
+            "and",
+            "LWD",
+            "operations",
+            "at",
+            "Site",
+            "C0022",
+            "(proposed",
+            "Site",
+            "NT2-13A)",
+            "were",
+            "initiated",
+            "to",
+            "provide",
+            "new",
+            "constraints",
+            "on",
+            "the",
+            "timing",
+            "of",
+            "activity",
+            "along",
+            "the",
+            "splay",
+            "fault."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Site",
+            "C0022",
+            "is",
+            "located",
+            "between",
+            "IODP",
+            "Sites",
+            "C0004",
+            "and",
+            "C0008",
+            "(Expedition",
+            "314",
+            "Scientists,",
+            "2009b;",
+            "Expedition",
+            "316",
+            "Scientists,",
+            "2009b,",
+            "2009c)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "The",
+            "objectives",
+            "of",
+            "the",
+            "site",
+            "were",
+            "to",
+            "obtain",
+            "samples",
+            "for",
+            "precise",
+            "age",
+            "dating",
+            "of",
+            "sediment",
+            "deformation",
+            "at",
+            "the",
+            "tip",
+            "of",
+            "the",
+            "splay",
+            "fault",
+            "to",
+            "determine",
+            "the",
+            "age",
+            "of",
+            "activity."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Core",
+            "data",
+            "provided",
+            "samples",
+            "for",
+            "dating",
+            "and",
+            "deformation",
+            "analysis."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Logging",
+            "data",
+            "provided",
+            "in",
+            "situ",
+            "conditions",
+            "and",
+            "resistivity",
+            "images",
+            "of",
+            "deformation",
+            "features."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Reaming",
+            "while",
+            "drilling",
+            "(RWD)",
+            "was",
+            "employed",
+            "for",
+            "the",
+            "first",
+            "time",
+            "for",
+            "scientific",
+            "ocean",
+            "drilling",
+            "during",
+            "Expedition",
+            "338",
+            "in",
+            "order",
+            "to",
+            "allow",
+            "cutting",
+            "the",
+            "$12\\%$",
+            "inch",
+            "diameter",
+            "pilot",
+            "hole",
+            "and",
+            "opening",
+            "the",
+            "hole",
+            "to",
+            "20",
+            "inches",
+            "at",
+            "the",
+            "same",
+            "time."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "There",
+            "is",
+            "a",
+            "concentric",
+            "hole",
+            "opener",
+            "between",
+            "the",
+            "bit",
+            "and",
+            "the",
+            "underreamer",
+            "(Fig."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "F1)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "The",
+            "underreamer",
+            "used",
+            "to",
+            "enlarge",
+            "the",
+            "hole",
+            "to",
+            "20",
+            "inches",
+            "was",
+            "the",
+            "National",
+            "Oilwell",
+            "Varco",
+            "Anderreamer",
+            "(Fig."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "F2)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "The",
+            "design",
+            "of",
+            "the",
+            "bottom-hole",
+            "assembly",
+            "(BHA)",
+            "also",
+            "included",
+            "a",
+            "complete",
+            "LWD",
+            "tool",
+            "suite",
+            "(Fig."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "F3)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "During",
+            "riserless",
+            "coring,",
+            "no",
+            "underreamer",
+            "was",
+            "used",
+            "and",
+            "the",
+            "bit",
+            "had",
+            "a",
+            "$12\\%$",
+            "inch",
+            "diameter",
+            "and",
+            "used",
+            "the",
+            "standard",
+            "rotary",
+            "core",
+            "barrel",
+            "coring",
+            "system",
+            "for",
+            "Holes",
+            "C0002H,",
+            "C0002I,",
+            "and",
+            "C0002J."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0002K",
+            "was",
+            "cored",
+            "with",
+            "a",
+            "hydraulic",
+            "piston",
+            "coring",
+            "system",
+            "(HPCS),",
+            "extended",
+            "punch",
+            "coring",
+            "system",
+            "(EPCS),",
+            "and",
+            "extended",
+            "shoe",
+            "coring",
+            "system",
+            "(ESCS),",
+            "whereas",
+            "Hole",
+            "C0002L",
+            "was",
+            "cored",
+            "with",
+            "the",
+            "ESCS",
+            "only",
+            "(Table",
+            "T1)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0012H",
+            "was",
+            "drilled",
+            "with",
+            "an",
+            "LWD",
+            "tool",
+            "string",
+            "similar",
+            "to",
+            "that",
+            "used",
+            "for",
+            "logging",
+            "in",
+            "Hole",
+            "C0002F",
+            "(Fig."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "F3);",
+            "however,",
+            "the",
+            "underreamer",
+            "was",
+            "not",
+            "used."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "The",
+            "$12\\%$",
+            "inch",
+            "polycrystalline",
+            "diamond",
+            "compact",
+            "(PDC)",
+            "bit",
+            "was",
+            "employed",
+            "to",
+            "allow",
+            "drilling",
+            "in",
+            "soft",
+            "and",
+            "semiindurated",
+            "sediment",
+            "and",
+            "into",
+            "basement."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0018B",
+            "was",
+            "drilled",
+            "with",
+            "an",
+            "LWD",
+            "tool",
+            "string",
+            "similar",
+            "to",
+            "that",
+            "used",
+            "for",
+            "logging",
+            "in",
+            "Hole",
+            "C0002F",
+            "(Fig."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "F3);",
+            "however,",
+            "neither",
+            "the",
+            "underreamer",
+            "nor",
+            "the",
+            "sonicVISION",
+            "were",
+            "used."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "The",
+            "$12\\%$",
+            "inch",
+            "PDC",
+            "bit",
+            "was",
+            "employed",
+            "to",
+            "allow",
+            "drilling",
+            "in",
+            "soft",
+            "and",
+            "semi-indurated",
+            "sediment."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0021A",
+            "was",
+            "drilled",
+            "with",
+            "the",
+            "same",
+            "LWD",
+            "tool",
+            "string",
+            "that",
+            "was",
+            "used",
+            "for",
+            "logging",
+            "in",
+            "Hole",
+            "C0018B",
+            "(Fig."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "F3)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0021B",
+            "was",
+            "cored",
+            "with",
+            "HPCS",
+            "and",
+            "EPCS."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0022A",
+            "was",
+            "drilled",
+            "with",
+            "the",
+            "same",
+            "LWD",
+            "tool",
+            "string",
+            "that",
+            "was",
+            "used",
+            "for",
+            "logging",
+            "in",
+            "Hole",
+            "C0018B",
+            "(Fig."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "F3)."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Hole",
+            "C0022B",
+            "was",
+            "cored",
+            "with",
+            "HPCS,",
+            "EPCS,",
+            "and",
+            "ESCS."
+        ],
+        "ner": []
+    }
+]

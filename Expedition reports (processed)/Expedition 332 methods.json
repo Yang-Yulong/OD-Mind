@@ -1,0 +1,322 @@
+[
+    {
+        "sentence": [
+            "Introduction"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Downhole",
+            "measurements",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "2"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "SmartPlug/GeniusPlug",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "4"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Long-term",
+            "borehole",
+            "monitoring",
+            "system",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "6"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Vortex-induced",
+            "vibration",
+            "measurements",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "12"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "References",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "13"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Figures",
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "14"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Tables."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "47"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "This",
+            "chapter",
+            "documents",
+            "the",
+            "methods",
+            "associated",
+            "with",
+            "borehole",
+            "observatory",
+            "recovery",
+            "and",
+            "deployment",
+            "during",
+            "Integrated",
+            "Ocean",
+            "Drilling",
+            "Program",
+            "(IODP)",
+            "Expedition",
+            "332:",
+            "the",
+            "SmartPlug",
+            "recovery",
+            "and",
+            "GeniusPlug",
+            "deployment",
+            "in",
+            "IODP",
+            "Hole",
+            "C0010A",
+            "and",
+            "the",
+            "longterm",
+            "borehole",
+            "monitoring",
+            "system",
+            "(LTBMS)",
+            "permanent",
+            "observatory",
+            "deployment",
+            "in",
+            "IODP",
+            "Hole",
+            "C0002G."
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Some",
+            "of",
+            "those",
+            "components",
+            "(tiltmeter,",
+            "seismometer,",
+            "and",
+            "strainmeter)",
+            "were",
+            "tested",
+            "at",
+            "several",
+            "stages",
+            "during",
+            "LTBMS",
+            "deployment",
+            "to",
+            "confirm",
+            "the",
+            "integrity",
+            "of",
+            "the",
+            "instruments",
+            "and",
+            "cable",
+            "connections."
+        ],
+        "ner": []
+    }
+]

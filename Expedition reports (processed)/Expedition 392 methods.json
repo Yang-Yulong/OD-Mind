@@ -1,0 +1,155 @@
+[
+    {
+        "sentence": [
+            "1",
+            "Introduction"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "10",
+            "Lithostratigraphy"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "21",
+            "Igneous",
+            "petrology"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "27",
+            "Micropaleontology"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "48",
+            "Paleomagnetism"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "51",
+            "Stratigraphic",
+            "correlation"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "54",
+            "Chronostratigraphy"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "56",
+            "Geochemistry"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "63",
+            "Physical",
+            "properties"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "74",
+            "Downhole",
+            "measurements"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "81",
+            "References"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "International",
+            "Ocean",
+            "Discovery",
+            "Program,",
+            "IODP,",
+            "JOIDES",
+            "Resolution,",
+            "Expedition",
+            "392,",
+            "Agulhas",
+            "Plateau",
+            "Cretaceous",
+            "Climate,",
+            "Climate",
+            "and",
+            "Ocean",
+            "change,",
+            "Earth",
+            "Connections,",
+            "Site",
+            "U1579,",
+            "Site",
+            "U1580,",
+            "Site",
+            "U1581,",
+            "Site",
+            "U1582,",
+            "Cretaceous/Paleogene",
+            "boundary,",
+            "K/Pg",
+            "boundary,",
+            "Paleocene/Eocene",
+            "Thermal",
+            "Maximum,",
+            "PETM,",
+            "large",
+            "igneous",
+            "province,",
+            "LIP,",
+            "zeolite",
+            "authigenesis,",
+            "igneous",
+            "sill",
+            "intrusion,",
+            "Campanian,",
+            "Oligocene",
+            "pelagic",
+            "carbonates,",
+            "paleoceanography,",
+            "African–",
+            "Southern",
+            "Ocean",
+            "gateway"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Core",
+            "descriptions"
+        ],
+        "ner": []
+    },
+    {
+        "sentence": [
+            "Supplementary",
+            "material"
+        ],
+        "ner": []
+    }
+]
