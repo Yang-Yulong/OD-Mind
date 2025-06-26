@@ -1,24 +1,48 @@
 # OD-Mind
 
-**OD-Mind** is a LLM agent for International Ocean Discovery Program (IODP).
+**OD-Mind** is a LLM agent for Scientific Ocean Drilling (SOD).
 
 This repository is the raw data file of artical *OD-Mind: An ocean drilling expert knowledge query system driven by knowledge graph*.
 
 OD-Mind is now accessible to all researchers. Please visit [http://agenthub.hsk.top](http://agenthub.hsk.top)
 
-
-
 # Directory description
 
-**Expedition reports (raw)**
-* Content: Raw expedition reports documents downloaded from the IODP online database. 
-* format: pdf
+**NER dataset**
+* Content: The training dataset for the Name Entity Recognition (NER) model, which is mentioned in Section 4.1.
+* Note: An annotated dataset comprises 310 sentences and 1,422 labeled entities, covering a range of domain-relevant entity types. It is used to train a lightweight NER model only.
+* Format: json
 
+**Publications**
+* Content: The textual publications related to SOD. The ocean drilling knowledge graph was generated through those publications.
+* Note: Contains 103 expedition reports, and 13 books or journal articles related to SOD. The charts and references of the publications have been removed, only main text retained in the Markdown files.
+* Format: markdown
+* Lists:
 
-**Expedition reports (processed)**
-* Content: The expedition reports documents after layout recognition and OCR processing.
-* format: json & md
+|     Titles                                                                                                                                                                                                                                                          |     Count       |     Source                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------|
+|     Expedition 320-403 Preliminary Report                                                                                                                                                                                                                           |     87 files    |     http://publications.iodp.org/index.html                    |
+|     Site U1396 - Site U1410                                                                                                                                                                                                                                         |     9 files     |     http://publications.iodp.org/proceedings/340/340toc.htm    |
+|     Data report:   stratigraphic correlation of Site U1396 and creation of a composite depth   scale and splice.                                                                                                                                                    |     1 files     |     http://publications.iodp.org/proceedings/340/340toc.htm    |
+|     Data report:   the Late Quaternary fossil record of holoplanktonic gastropods at IODP Sites U1395   and U1394                                                                                                                                                   |     1 files     |     http://publications.iodp.org/proceedings/340/340toc.htm    |
+|     Data report:   coring disturbances in IODP Expedition 340, a detailed list of intervals with   fall-in and flow-in                                                                                                                                              |     1 files     |     http://publications.iodp.org/proceedings/340/340toc.htm    |
+|     Data report:   dissolved minor element compositions, sediment major and minor element concentrations,   and reactive iron and manganese data from the Lesser Antilles volcanic arc   region, IODP Expedition 340 Sites U1394, U1395, U1396, U1399, and U1400    |     1 files     |     http://publications.iodp.org/proceedings/340/340toc.htm    |
+|     Data report:   component and grain size analysis of visible tephra layers, Cores 1H through   6H, Holes U1396A and U1396B, southwest Montserrat                                                                                                                 |     1 files     |     http://publications.iodp.org/proceedings/340/340toc.htm    |
+|     Data report:   permeability measurements inside and outside submarine landslides at IODP   Expedition 340 sites                                                                                                                                                 |     1 files     |     http://publications.iodp.org/proceedings/340/340toc.htm    |
+|     Synthesis:   stratigraphy and age control for IODP Sites U1394, U1395, and U1396 offshore   Montserrat in the Lesser Antilles                                                                                                                                   |     1 files     |     http://publications.iodp.org/proceedings/340/340toc.htm    |
 
-**Extracted knowledge**
-* Content: The structured knowledge obtained through our proposed method.
-* format: csv
+|     Titles                                                                                                                                                                         |     Author                                                         |     Journal/Book title                                |     Year    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------|-------------|
+|     Progress and   Priorities in Ocean Drilling: In Search of Earth's Past and Future                                                                                              |     National Academies of Sciences,   Engineering, and Medicine    |     -                                                 |     2024    |
+|     A detailed   paleomagnetic record between 2.1 and 2.75 Ma at IODP Site U1314 in the                                                                                            |     Masao Ohno                                                     |     Geochemistry, Geophysics, Geosystems              |     2012    |
+|     The Extending   Ocean Drilling Pursuits (eODP) project: Synthesizing scientific ocean   drilling data                                                                          |     Jocelyn Sessa                                                  |     Geochemistry, Geophysics, Geosystems              |     2023    |
+|     Evolution of deep-sea sediments across   the Paleocene-Eocene and Eocene-Oligocene boundaries                                                                                  |     Bridget S. Wade                                                |     Earth-Science Reviews                             |     2020    |
+|     Rapid   transition from continental breakup to igneous oceanic crust in the South   China Sea                                                                                  |     H. C. Larsen                                                   |     Nature Geoscience                                 |     2018    |
+|     Holes in the   Bottom of the Sea: History, Revolutions, and Future Opportunities                                                                                               |     Suzanne OConnell                                               |     GSA Today                                         |     2019    |
+|     Age   calibrated relative paleointensity for the last 1.5 Myr at IODP Site U1308   (North Atlantic)                                                                            |     J.E.T. Channell                                                |     Earth and Planetary Science Letters               |     2008    |
+|     Geomagnetic   excursions and paleointensities in the Matuyama Chron at Ocean Drilling   Program Sites 983 and 984 (Iceland Basin)                                              |     J.E.T. Channell                                                |     Journal of Geophysical Research:   Solid Earth    |     2002    |
+|     Late   Pleistocene stratigraphy of IODP Site U1396 and compiled chronology offshore   of south and south west Montserrat, Lesser Antilles                                      |     Deborah Wall-Palmer1                                           |     Geochemistry, Geophysics, Geosystems              |     2014    |
+|     Relative   paleointensity (RPI) and oxygen isotope stratigraphy at IODP Site U1308 North   Atlantic RPI stack for 1.2–2.2 Ma (NARPI-2200) and age of the Olduvai   Subchron    |     J.E.T. Channell                                                |     Quaternary Science Reviews                        |     2016    |
+|     Submarine   record of volcanic island construction and collapse in the Lesser                                                                                                  |     A. Le Friant                                                   |     Geochemistry, Geophysics, Geosystems              |     2015    |
+|     Coccolithophore   variability from the Shackleton Site (IODP Site U1385) through MIS 16-10                                                                                     |     P. Maiorano                                                    |     Global and Planetary Change                       |     2015    |
+|     Extraordinary   rocks from the peak ring of the Chicxulub impact crater: P-wave velocity,   density, and porosity measurements from IODP/ICDP Expedition 364                   |     G.L. Christeson                                                |     Earth and Planetary Science Letters               |     2018    |
